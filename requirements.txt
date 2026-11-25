@@ -1,0 +1,2 @@
+gmpy2
+huggingface_hub
